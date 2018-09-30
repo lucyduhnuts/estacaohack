@@ -1,52 +1,7 @@
-/* h1 {
-    color: palevioletred;}
-h2 { color: paleturquoise;}
-
-h3 {color: turquoise;}
-
-p {color: grey;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;} */
-
-.container-1 div, .container-2 div { 
-    border: 3px solid blueviolet;
-    padding: 10px;
-    /* border-radius: 50px; */
-}
-
-.container-1 {
-    display: flex;
-    /* align-items: flex-start;
-    align-items: flex-end;
-    align-items: center; 
-    flex-direction: column*/
-
-
-
-}
-
-.box-1 {
-    flex: 1;
-    
-    
-}
-
-.box-2 {
-    flex: 2;
-    
-}
-
-.box-3 {
-    flex: 1;
-    
-}
-
-
-.container-2 {
-    display: flex;
-    justify-content: center;
-}
-
-.container-box { 
-  width: 20%
-  border: 3px solid blueviolet;
+.botao { 
+    width: 100px;
+    height: 50px;
+    border: none;
+    background-color: pink;
+    align-content: center
 }

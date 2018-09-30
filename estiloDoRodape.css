@@ -1,0 +1,12 @@
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    padding:2%;
+    left: 0%;
+    background-color: #73877a;
+    color: white;
+    font-family: 'Century Gothic';
+    clear: both;
+}
